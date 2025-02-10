@@ -18,6 +18,16 @@ I'm a **CS/Bio major, researcher, and maker** passionate about **3D printing, pr
 💡 **Current Focus**  
 Exploring **CAD, hardware, optics, behavioral ecology, web development, AI/ML, embedded systems, interdisciplinary collaboration, and low-cost scientific instrumentation** through self-study and hands-on projects.
 
+🖥️ **Languages & Tools**  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
 Thanks for stopping by! ⭐ Feel free to check out my repositories and reach out. Let's build something cool!
 
 
