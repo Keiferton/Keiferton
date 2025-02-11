@@ -18,7 +18,9 @@ I'm a **CS/Bio major, researcher, and maker** passionate about **3D printing, pr
 💡 **Current Focus**  
 Exploring **CAD, hardware, optics, behavioral ecology, web development, AI/ML, embedded systems, interdisciplinary collaboration, and low-cost scientific instrumentation** through self-study and hands-on projects.
 
-🖥️ **Languages & Tools**  
+## 🖥️ **Languages & Tools**
+
+### **Programming Languages**  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -26,6 +28,22 @@ Exploring **CAD, hardware, optics, behavioral ecology, web development, AI/ML, e
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### **Software & Development Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-FA7814?style=for-the-badge&logo=autodesk&logoColor=white)
+![Shapr3D](https://img.shields.io/badge/Shapr3D-2088FF?style=for-the-badge&logo=shapr3d&logoColor=white)
+![FIJI](https://img.shields.io/badge/FIJI-B200FF?style=for-the-badge&logo=ImageJ&logoColor=white)
+![xTool](https://img.shields.io/badge/xTool-00ADEF?style=for-the-badge&logoColor=white)
+
+### **Embedded Systems & Automation**
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![G-code](https://img.shields.io/badge/G--code-00ADEF?style=for-the-badge&logo=reprap&logoColor=white)
+![PySerial](https://img.shields.io/badge/PySerial-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 Thanks for stopping by! ⭐ Feel free to check out my repositories and reach out. Let's build something cool!
