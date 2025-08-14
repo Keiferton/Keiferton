@@ -17,7 +17,7 @@ I'm a **CS/Bio major, researcher, and maker** passionate about **3D printing, pr
 - GitHub: You're already here! 😃
 
 ## 💡 **Current Focus**  
-Exploring **CAD, hardware, optics, behavioral ecology, web development, AI/ML, embedded systems, interdisciplinary collaboration, and low-cost scientific instrumentation** through self-study and hands-on projects. **Recently I've expanded intor cloud infrastructure and Kubernetes policy tooling through my internship at Fastly**
+Exploring **CAD, hardware, optics, behavioral ecology, web development, AI/ML, embedded systems, interdisciplinary collaboration, and low-cost scientific instrumentation** through self-study and hands-on projects. **Recently I've expanded into cloud infrastructure and Kubernetes policy tooling through my internship at Fastly**
 
 ## 🖥️ **Languages & Tools**
 
@@ -57,7 +57,7 @@ Exploring **CAD, hardware, optics, behavioral ecology, web development, AI/ML, e
 ![PySerial](https://img.shields.io/badge/PySerial-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-Thanks for stopping by! ⭐ Feel free to check out my repositories and reach out. Let's build something cool!
+Thanks for stopping by! ⭐ Feel free to check out my repositories/portfolio and reach out. Let's build something cool!
 
 
 <!--
