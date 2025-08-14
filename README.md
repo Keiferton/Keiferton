@@ -12,7 +12,8 @@ I'm a **CS/Bio major, researcher, and maker** passionate about **3D printing, pr
 
 ## 📫 **Connect with Me**
 
-- LinkedIn: [https://www.linkedin.com/in/keithcurrysf/](#)
+- [Portfolio](https://www.keifh.com)
+- [LinkedIn](https://www.linkedin.com/in/keithcurrysf/)
 - GitHub: You're already here! 😃
 
 ## 💡 **Current Focus**  
