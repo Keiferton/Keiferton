@@ -19,6 +19,11 @@ I'm a **CS/Bio major, researcher, and maker** passionate about **3D printing, pr
 ## 💡 **Current Focus**  
 Exploring **CAD, hardware, optics, behavioral ecology, web development, AI/ML, embedded systems, interdisciplinary collaboration, and low-cost scientific instrumentation** through self-study and hands-on projects. **Recently I've expanded into cloud infrastructure and Kubernetes policy tooling through my internship at Fastly**
 
+## 🏅 **Badges**
+<a href="https://cloud.layer5.io/user/719bfea1-3075-4700-b943-652baf877902?tab=badges&badge=first-design">
+  <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design Badge" width="130"/>
+</a>
+
 ## 🖥️ **Languages & Tools**
 
 ### **Programming Languages**  
@@ -55,7 +60,6 @@ Exploring **CAD, hardware, optics, behavioral ecology, web development, AI/ML, e
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![G-code](https://img.shields.io/badge/G--code-00ADEF?style=for-the-badge&logo=reprap&logoColor=white)
 ![PySerial](https://img.shields.io/badge/PySerial-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 
 Thanks for stopping by! ⭐ Feel free to check out my repositories/portfolio and reach out. Let's build something cool!
 
